@@ -1,0 +1,5 @@
+C:\Users\Administrateur\source\repos\TestConteneur\accsesSource\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\accsesSource\obj\Debug\App.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\accsesSource\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\accsesSource\obj\Debug\accsesSource_MarkupCompile.cache
+C:\Users\Administrateur\source\repos\TestConteneur\accsesSource\obj\Debug\accsesSource_MarkupCompile.lref

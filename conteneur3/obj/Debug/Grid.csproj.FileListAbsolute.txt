@@ -1,0 +1,14 @@
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\bin\Debug\conteneur3.exe.config
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\bin\Debug\conteneur3.exe
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\bin\Debug\conteneur3.pdb
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\App.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\conteneur3_MarkupCompile.cache
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\conteneur3_MarkupCompile.lref
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\conteneur3.g.resources
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\conteneur3.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\conteneur3.exe
+C:\Users\Administrateur\source\repos\TestConteneur\conteneur3\obj\Debug\conteneur3.pdb

@@ -1,0 +1,50 @@
+﻿<Window x:Class="Calculette.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculette"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Name="Ecran" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Text=""></TextBlock>
+                <Button Grid.Row="1" Grid.Column="0" Click="RetourZero" Content="Ac"></Button>
+                <Button Grid.Row="1" Grid.Column="1" Click="Inversement">-/+</Button>
+                <Button Grid.Row="1" Grid.Column="2" Click="Pourcentage">%</Button>
+                <Button Grid.Row="1" Grid.Column="3" Click="Division">/</Button>
+                <Button Grid.Row="2" Grid.Column="0" Click="Button_Click">7</Button>
+                <Button Grid.Row="2" Grid.Column="1" Click="Button_Click">8</Button>
+                <Button Grid.Row="2" Grid.Column="2" Click="Button_Click">9</Button>
+                <Button Grid.Row="2" Grid.Column="3" Click="Multiplier">*</Button>
+                <Button Grid.Row="3" Grid.Column="0" Click="Button_Click">4</Button>
+                <Button Grid.Row="3" Grid.Column="1" Click="Button_Click">5</Button>
+                <Button Grid.Row="3" Grid.Column="2" Click="Button_Click">6</Button>
+                <Button Grid.Row="3" Grid.Column="3" Click="Soustraire">-</Button>
+                <Button Grid.Row="4" Grid.Column="0" Click="Button_Click">1</Button>
+                <Button Grid.Row="4" Grid.Column="1" Click="Button_Click">2</Button>
+                <Button Grid.Row="4" Grid.Column="2" Click="Button_Click">3</Button>
+                <Button Grid.Row="4" Grid.Column="3" Click="Additionner">+</Button>
+                <Button Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2" Click="Button_Click">0</Button>
+                <Button Grid.Row="5" Grid.Column="2" Click="Button_Click">,</Button>
+                <Button Grid.Row="5" Grid.Column="3" Click="Egal">=</Button>
+
+            </Grid>
+
+</Window>

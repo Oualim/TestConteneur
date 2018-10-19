@@ -1,0 +1,15 @@
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\bin\Debug\TestConteneur.exe.config
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\bin\Debug\TestConteneur.exe
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\bin\Debug\TestConteneur.pdb
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\App.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur_MarkupCompile.cache
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur_MarkupCompile.lref
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur.g.resources
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur.csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur.exe
+C:\Users\Administrateur\source\repos\TestConteneur\TestConteneur\obj\Debug\TestConteneur.pdb

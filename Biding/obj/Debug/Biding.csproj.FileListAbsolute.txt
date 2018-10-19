@@ -1,0 +1,15 @@
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\bin\Debug\Biding.exe.config
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\bin\Debug\Biding.exe
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\bin\Debug\Biding.pdb
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding.csprojAssemblyReference.cache
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\MainWindow.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\App.g.cs
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding_MarkupCompile.cache
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding_MarkupCompile.lref
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\MainWindow.baml
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding.g.resources
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding.Properties.Resources.resources
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding.csproj.GenerateResource.cache
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding.exe
+C:\Users\Administrateur\source\repos\TestConteneur\Biding\obj\Debug\Biding.pdb
